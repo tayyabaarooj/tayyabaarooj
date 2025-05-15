@@ -8,8 +8,8 @@ I'm an **AI Engineer Intern** at Webrange Solutions and an **R&D Engineer** at U
 ### 🔍 **About Me:**
 - 💡 Exploring innovations in **AI** and **Machine Learning**.
 - 🌐 Contributing to impactful projects at **Webrange Solutions** and **UTech Innovative Solutions & Consultancy**.
-- 📊 Passionate about **LLMs**, **AI Research**, and **AI applications in Healthcare**.
-- 🎓 A recent Computer science graduate.
+- 📊 Passionate about **ML**, **LLMs**, **AI Research**, and **AI applications in Healthcare**.
+- 🎓 Computer science graduate.
 
 ---
 
@@ -30,16 +30,31 @@ I'm an **AI Engineer Intern** at Webrange Solutions and an **R&D Engineer** at U
 ### 🛠️ **Skills:**
 - Machine Learning & Deep Learning
 - Natural Language Processing
-- Python, TensorFlow, Keras
+- Python
+- Chatbot Development
 - Data Analysis & Visualization
 
 ---
 
-### 🌱 **Currently Learning:**
-- LLMs, Chatbot Development, and Model Context Protocols (MCPs)
-- Advanced Machine Learning Techniques (focused on NLP, LangChain, RAG-based architectures, etc.)
+## 🛠️ Tech Stack
+The core tools used in my most recent projects:
 
----
+[![Python](https://img.shields.io/badge/Made%20with-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LLaMA](https://img.shields.io/badge/Powered%20by-LLaMA-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiI+PC9zdmc+)]()
+[![Flask](https://img.shields.io/badge/API%20by-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![SQL](https://img.shields.io/badge/Data-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Firebase](https://img.shields.io/badge/Auth-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![LangChain](https://img.shields.io/badge/LLM%20Framework-LangChain-9A57E2?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Deep%20Learning-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
-### ✨ **Let's build something amazing together!**
 
+I use these to build AI products, automate research, and deploy end-to-end tools that think.
+
+```python
+Languages: Python, SQL  
+AI/ML: TensorFlow, Keras, PyTorch, Scikit-learn, LLaMA, LangChain, MCP (FastMCP)
+Data: pandas, NumPy, matplotlib
+Databases: MySQL, PostgreSQL, MongoDB, Pinecone, ChromaDB
+Infra: Flask, Firebase, Git, Render, AWS
+Other: GitHub Copilot, Streamlit, VS Code, Cursor
