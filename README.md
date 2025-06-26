@@ -16,7 +16,6 @@ I'm an **R&D Engineer** at UTech Innovative Solutions & Consultancy. My passion 
 - **Melano Detect AI** – Led the development of a mobile app and handheld device for early detection of skin cancer. Project funded by **Hong Kong Science and Technology Park**
 - **AI-Based Skin Cancer Detection Algorithms: Opportunities, Challenges, and Way Forward** – Research paper published in  Asian Journal of Science, Engineering and Technology (AJSET). Implemented 10 CNN variants and evaluated them based on 10 different metrics.
 - **Well-being Meter based on Federated Learning Powered Sentiment Analysis** – In progress.
-- **Cofundestate Platform** – Developed an MVP web app to connect property investors.
 
 ---
 
